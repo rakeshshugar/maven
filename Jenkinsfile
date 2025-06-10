@@ -24,4 +24,6 @@ pipeline {
         sh ' mvn package'
       }
     }
+  }
+}
 
